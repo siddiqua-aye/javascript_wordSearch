@@ -1,6 +1,8 @@
 # javascript_wordSearch
 Interactive word search puzzle using JavaScript
 
+![image](https://user-images.githubusercontent.com/82129736/118904721-6ddc2700-b8e8-11eb-8b8b-629cc2c6ea7b.png)
+
 ## Project Details
 
 Files included: 
